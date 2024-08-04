@@ -1,0 +1,27 @@
+Backtracking
+
+If you are able to built a state space tree (requiring all possible solutions), 
+Backtracking is usually the approach.
+
+Choices, Constraints, and Goals.
+
+Generic approach pseudocode
+
+function backtrack(candidate): 
+	if is_solution(candidate): 
+		process_solution(candidate) 
+	else: 
+		for choice in generate_choices(candidate): 
+			if is_valid(choice): 
+				make_choice(choice) 
+				backtrack(candidate) 
+				undo_choice(choice)
+
+1. Easy 1863. Sum of All Subset XOR Totals
+2. Medium 797. All Paths From Source to Target
+3. Medium 78. Subsets
+4. Medium 46. Permutations
+
+Resources:
+- Intro to Backtracking: https://www.youtube.com/watch?v=Nabbpl7y4Lo
+- 
