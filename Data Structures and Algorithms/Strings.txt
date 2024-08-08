@@ -3,3 +3,9 @@ Strings
 
 Printing Patterns
 - Medium 6. Zigzag Conversion
+
+Subsequence
+- Easy 392. Is Subsequence
+
+Substring
+- Easy 1668. Maximum Repeating Substring
