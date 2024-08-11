@@ -1,93 +1,121 @@
-Patterns List
+## Patterns List
 
-Scaling
+### Scaling
 - Horizontal Scaling
 - Vertical Scaling
 - Auto-Scaling
-- Load Balancing Algorithms (Round Robin, Least Connections, IP Hash, etc.)
+- Load Balancing Algorithms
+  - Round Robin
+  - Least Connections
+  - IP Hash
+  - etc.
 
-Data Partitioning
+### Data Partitioning
 - Sharding
 - Consistent Hashing
-- Partitioning Strategies (Range-Based, Hash-Based, List-Based)
+- Partitioning Strategies
+  - Range-Based
+  - Hash-Based
+  - List-Based
 
-Data Replication
+### Data Replication
 - Master-Slave Replication
 - Master-Master Replication
 - Quorum-Based Replication
 
-Data Consistency
+### Data Consistency
 - Strong Consistency
 - Eventual Consistency
-- CAP Theorem (Consistency, Availability, Partition Tolerance)
+- CAP Theorem
+  - Consistency
+  - Availability
+  - Partition Tolerance
 
-Data Storage
+### Data Storage
 - ACID Transactions
-- BASE Transactions (Basically Available, Soft state, Eventual consistency)
+- BASE Transactions
+  - Basically Available
+  - Soft State
+  - Eventual Consistency
 - Distributed Transactions
 - Two-Phase Commit (2PC)
 - Three-Phase Commit (3PC)
 
-Caching Patterns
+### Caching Patterns
 - Cache-Aside
 - Write-Through
 - Write-Behind
 - Refresh-Ahead
 
-Rate Limiting
+### Rate Limiting
 - Token Bucket Algorithm
 - Leaky Bucket Algorithm
 - Fixed Window Counter
 - Sliding Log
 
-Security
-- Authentication (OAuth, JWT, SAML)
-- Authorization (RBAC, ABAC)
-- Encryption (TLS, SSL)
-- Hashing Algorithms (MD5, SHA, bcrypt)
+### Security
+- Authentication
+  - OAuth
+  - JWT
+  - SAML
+- Authorization
+  - RBAC
+  - ABAC
+- Encryption
+  - TLS
+  - SSL
+- Hashing Algorithms
+  - MD5
+  - SHA
+  - bcrypt
 - Rate Limiting
 - Throttling
 
-Fault Tolerance
+### Fault Tolerance
 - Circuit Breaker
 - Retry Pattern
 - Bulkhead Pattern
 
-Design Principles
+### Design Principles
 - CQRS (Command Query Responsibility Segregation)
 - Event Sourcing
 - Domain-Driven Design (DDD)
 - Twelve-Factor App
 
-Distributed Systems
-- Consensus Algorithms (Paxos, Raft)
+### Distributed Systems
+- Consensus Algorithms
+  - Paxos
+  - Raft
 - Leader Election
 - Distributed Locks
 - Vector Clocks
 - Gossip Protocol
 
-Data Processing
-- Batch Processing (e.g., Hadoop)
-- Stream Processing (e.g., Apache Kafka, Apache Flink)
+### Data Processing
+- Batch Processing
+  - e.g., Hadoop
+- Stream Processing
+  - e.g., Apache Kafka
+  - e.g., Apache Flink
 - Lambda Architecture
 - Kappa Architecture
 
-Observability
+### Observability
 - Metrics
 - Logs
 - Tracing
 
-Data
+### Data
 - Data Lakes
 - Streaming
 - Pipelines
 
-Version Control
+### Version Control
 - Blue-Green Deployment
 - Canary Releases
 - Feature Toggles
 
-Performance Optimization
+### Performance Optimization
 - Lazy Loading
 - Eager Loading
 - Pagination
