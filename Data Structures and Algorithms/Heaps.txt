@@ -1,3 +1,0 @@
-Heap
-
-1. Easy 703. Kth Largest Element in a Stream
