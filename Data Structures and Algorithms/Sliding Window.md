@@ -1,6 +1,6 @@
-Sliding Window
+## Sliding Window
 
-General Approach
+### General Approach
 
 Define the Window:
 - Determine the size of the window (fixed or variable).
@@ -20,5 +20,6 @@ Repeat Until End of Data:
 - Continue sliding the window until the end of the data set is reached.
 - Collect results as needed.
 
-1. Medium 1151. Minimum Swaps to Group All 1's Together
-2. Medium 
+### Problems
+
+1. Medium [1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)
