@@ -1,3 +1,0 @@
-Math & Geometry
-
-Medium 50. Pow(x, n)
