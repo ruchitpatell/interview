@@ -23,3 +23,6 @@
 
 ### Two Trees
 1. Easy [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
+### Metadata (Height, Diameter, etc.)
+1. Easy [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
