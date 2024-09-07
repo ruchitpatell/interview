@@ -5,3 +5,6 @@
 
 ### Number Theory
 1. Easy [258. Add Digits](https://leetcode.com/problems/add-digits/description)
+
+### Concurrency
+1. Easy [1279. Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/description/)
