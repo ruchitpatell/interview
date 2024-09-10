@@ -105,6 +105,9 @@ Caching is essential to offload frequent reads from the database and improve per
 - **Memory Caching**: Tools like Redis and Memcached.
 - **Page Caching**: Used in databases like PostgreSQL to cache entire rows/pages in memory.
 
+#### **Connection Pooling**
+- TBA
+
 ---
 
 ### **4. Scaling**
@@ -195,7 +198,7 @@ Caching is essential to offload frequent reads from the database and improve per
 
 ---
 
-### **8. Simulating Large Scale systems **
+### **8. Simulating Large Scale systems**
 
 - **Simulate Load**: Load-testing tools like **Apache JMeter**, **Locust**, or **wrk** to simulate millions of users on a small-scale cluster.
 - **Use Cloud Sandboxes**: AWS, GCP, Azure to practice sharding, replication, and failure scenarios.
