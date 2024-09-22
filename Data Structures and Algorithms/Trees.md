@@ -17,6 +17,10 @@
 2. Easy [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 3. Easy [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 4. Easy [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+5. Easy [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) Level-order
+
+### Compare
+1. Easy [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 ### Balance
 1. Easy [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
